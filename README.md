@@ -46,7 +46,7 @@
 <h3>Project links</h3>
 
 <p>
-  <a href="#">
+  <a href="https://github.com/xrobinx/cpp-food-ordering">
     <img src="https://img.shields.io/badge/C%2B%2B-CORE%20SYSTEMS%20%26%20PERFORMANCE-111111?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   </a>
 
