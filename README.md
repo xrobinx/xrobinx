@@ -50,37 +50,21 @@
 <h3>🧠 Skills</h3>
 
 <p>
-  <a href="#cpp"><img src="https://img.shields.io/badge/C%2B%2B-Core%20Systems%20%26%20Performance-111111?style=for-the-badge&logo=c%2B%2B&logoColor=white" /></a>
-  <a href="#python"><img src="https://img.shields.io/badge/Python-ML%20%2F%20Data%20Science-111111?style=for-the-badge&logo=python&logoColor=white" /></a>
-  <a href="#web"><img src="https://img.shields.io/badge/Web%20Design-UI%20%26%20Layouts-111111?style=for-the-badge&logo=figma&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/C%2B%2B-CORE%20SYSTEMS%20%26%20PERFORMANCE-111111?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" /></a>
+  <a href="https://github.com/xrobinx/marketing-campaign-customer-response-predictor"><img src="https://img.shields.io/badge/Python-ML%20%2F%20DATA%20SCIENCE-111111?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
+  <a href="#web-design"><img src="https://img.shields.io/badge/WEB%20DESIGN-UI%20%26%20UX%20WORK-111111?style=for-the-badge&logo=figma&logoColor=white" alt="Web Design" /></a>
 </p>
 
-<details id="cpp">
-  <summary><b>🔥 C++ — Core Systems & Performance (click)</b></summary>
+<details id="web-design">
+  <summary><b>🎨 Choose a Figma project</b></summary>
   <br/>
-  <ul>
-    <li>Clean, structured code</li>
-    <li>Performance-aware thinking</li>
-    <li>Strong CS foundations</li>
-  </ul>
-</details>
-
-<details id="python">
-  <summary><b>🐍 Python — ML / Data Science (click)</b></summary>
-  <br/>
-  <ul>
-    <li>ML / data science experiments + prototyping</li>
-    <li>Project: <a href="https://github.com/xrobinx/marketing-campaign-customer-response-predictor">Marketing Campaign Customer Response Predictor</a></li>
-  </ul>
-</details>
-
-<details id="web">
-  <summary><b>🎨 Web Design — UI & Layout Concepts (click)</b></summary>
-  <br/>
-  <ul>
-    <li>Figma: <a href="https://www.figma.com/design/ISIPGN6WJJVWMNC2a2XPXc/Untitled?node-id=0-1&p=f&t=WaEXFQgQEWfr4wmf-0">Figma UI Concept Board (Untitled)</a></li>
-    <li>Figma: <a href="https://www.figma.com/design/43hi4MOz8FoGcH7bj2VCUB/WEB-DESIGN?node-id=0-1&p=f&t=IxaF9GrRrevlYs7j-0">Web Design Layout Concept (WEB-DESIGN)</a></li>
-    <li>If you want to check something specific, tell me: <b>Landing page</b>, <b>UI kit</b>, <b>layout</b>, or <b>color system</b>.</li>
-  </ul>
+  <p>
+    <a href="https://www.figma.com/design/43hi4MOz8FoGcH7bj2VCUB/WEB-DESIGN?node-id=0-1&p=f&t=IxaF9GrRrevlYs7j-0">
+      <img src="https://img.shields.io/badge/Figma-Web%20Design%20Layout%20Concept-111111?style=for-the-badge&logo=figma&logoColor=white" alt="Web Design Layout Concept" />
+    </a>
+    <a href="https://www.figma.com/design/ISIPGN6WJJVWMNC2a2XPXc/Untitled?node-id=0-1&p=f&t=WaEXFQgQEWfr4wmf-0">
+      <img src="https://img.shields.io/badge/Figma-UI%20Concept%20Board-111111?style=for-the-badge&logo=figma&logoColor=white" alt="UI Concept Board" />
+    </a>
+  </p>
 </details>
 
