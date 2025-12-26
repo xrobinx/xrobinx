@@ -60,10 +60,10 @@
   <br/>
   <p>
     <a href="https://www.figma.com/design/43hi4MOz8FoGcH7bj2VCUB/WEB-DESIGN?node-id=0-1&p=f&t=IxaF9GrRrevlYs7j-0">
-      <img src="https://img.shields.io/badge/Figma-Web%20Design%20Layout%20Concept-111111?style=for-the-badge&logo=figma&logoColor=white" />
+      <img src="https://img.shields.io/badge/Figma-Web%20Design%20Layout%20-111111?style=for-the-badge&logo=figma&logoColor=white" />
     </a>
     <a href="https://www.figma.com/design/ISIPGN6WJJVWMNC2a2XPXc/Untitled?node-id=0-1&p=f&t=WaEXFQgQEWfr4wmf-0">
-      <img src="https://img.shields.io/badge/Figma-UI%20Concept%20Board-111111?style=for-the-badge&logo=figma&logoColor=white" />
+      <img src="https://img.shields.io/badge/Figma-Fiorein%20Website%20-111111?style=for-the-badge&logo=figma&logoColor=white" />
     </a>
   </p>
 </details>
