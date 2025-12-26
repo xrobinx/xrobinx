@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
- Computer Science Student •  Enjoys C++ • Core CS focus • Learning AI & Machine Learning
+ Focused on strong CS fundamentals • Likes understanding how programs work • Learning AI & Machine Learning
 
 </p>
 
