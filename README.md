@@ -11,7 +11,8 @@
 </p>
 
 <p align="center">
-  Systems-first thinking • Performance-aware coding • Clean structure • Deep learning approach
+ Computer Science Student •  Enjoys C++ • Core CS focus • Learning AI & Machine Learning
+
 </p>
 
 <hr/>
