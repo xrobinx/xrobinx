@@ -41,7 +41,7 @@
 <ul>
   <li>Advanced C++ — ✅ Completed</li>
   <li>Intro to Data Science — ✅ Completed</li>
-  <li>Now: expanding C++ projects + building ML knowledge step-by-step</li>
+  <li>Now: expanding C++ projects + building ML knowledge</li>
 </ul>
 <h3>Project links</h3>
 
