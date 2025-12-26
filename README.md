@@ -42,9 +42,8 @@
         <span style="opacity:0.9; flex:0 0 auto;">VS Code</span>
         <span style="opacity:0.45; flex:0 0 auto;">—</span>
 
-        <!-- prevent overflow issues -->
         <span style="opacity:0.9; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; max-width:520px;">
-          robinjeet-singh/README.md
+          xrobinx/README.md
         </span>
       </div>
 
@@ -132,7 +131,7 @@
               text-overflow: ellipsis;
             "
           >
-            <b style="color:#cdd6f4;">ROBINJEET-SINGH</b><span style="opacity:0.6;">/</span>
+            <b style="color:#cdd6f4;">xrobinx</b><span style="opacity:0.6;">/</span>
           </div>
 
           <div style="font-size:12px;line-height:1.85;">
@@ -209,7 +208,6 @@
             </div>
           </div>
 
-          <!-- Code card -->
           <div
             style="
               border: 1px solid rgba(255,255,255,0.10);
@@ -220,7 +218,6 @@
           >
             <table width="100%" cellspacing="0" cellpadding="0" style="border-collapse:collapse;">
               <tr>
-                <!-- Line numbers -->
                 <td
                   valign="top"
                   style="
@@ -238,9 +235,8 @@
                   1<br/>2<br/>3<br/>4<br/>5<br/>6<br/>7<br/>8<br/>9<br/>10<br/>11<br/>12
                 </td>
 
-                <!-- Code -->
                 <td style="padding: 14px; font-size: 12px; line-height: 1.75;">
-                  <div style="color:#7a88a6;">// robinjeet-singh :: profile</div>
+                  <div style="color:#7a88a6;">// xrobinx :: profile</div>
                   <div style="color:#7a88a6;">// Primary: C++ (systems + performance mindset)</div>
                   <div style="color:#7a88a6;">// Secondary: AI/ML (learning to mastery)</div>
                   <div style="height:10px;"></div>
@@ -266,12 +262,6 @@
                   </div>
 
                   <div><span style="color:#cdd6f4;">}</span></div>
-
-                  <div style="height:10px;"></div>
-
-                  <div style="color:#7a88a6;">
-                    // Tip: Expand folders in the sidebar + open tabs like a real editor.
-                  </div>
                 </td>
               </tr>
             </table>
@@ -280,7 +270,7 @@
           <!-- Quick actions row -->
           <div style="margin-top:12px; display:flex; flex-wrap:wrap; gap:8px; align-items:center;">
             <a
-              href="https://github.com/robinjeet-singh?tab=repositories"
+              href="https://github.com/xrobinx?tab=repositories"
               style="
                 text-decoration:none;
                 color:#cdd6f4;
@@ -289,12 +279,11 @@
                 border-radius:10px;
                 border:1px solid rgba(255,255,255,0.10);
                 background:rgba(255,255,255,0.03);
-                display:inline-block;
               "
             >📦 Repos</a>
 
             <a
-              href="https://github.com/robinjeet-singh?tab=projects"
+              href="https://github.com/xrobinx?tab=projects"
               style="
                 text-decoration:none;
                 color:#cdd6f4;
@@ -303,12 +292,11 @@
                 border-radius:10px;
                 border:1px solid rgba(255,255,255,0.10);
                 background:rgba(255,255,255,0.03);
-                display:inline-block;
               "
             >🧠 Projects</a>
 
             <a
-              href="https://github.com/robinjeet-singh"
+              href="https://github.com/xrobinx"
               style="
                 text-decoration:none;
                 color:#cdd6f4;
@@ -317,7 +305,6 @@
                 border-radius:10px;
                 border:1px solid rgba(255,255,255,0.10);
                 background:rgba(255,255,255,0.03);
-                display:inline-block;
               "
             >▶ Open Profile</a>
 
@@ -327,7 +314,6 @@
                 color:#7a88a6;
                 font-size:12px;
                 padding:8px 10px;
-                white-space:nowrap;
               "
             >
               Ln 12, Col 1 • UTF-8 • C++
