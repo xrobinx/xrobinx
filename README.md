@@ -19,7 +19,7 @@ You must split your README into **TWO SECTIONS**:
 
 This is what visitors should **see visually**.
 
-```html
+
 <div align="center">
 
   <div style="
@@ -31,8 +31,6 @@ This is what visitors should **see visually**.
     box-shadow: 0 10px 35px rgba(0,0,0,0.35);
     font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
   ">
-
-    <!-- Title bar -->
     <div style="
       display:flex;
       justify-content:space-between;
@@ -51,7 +49,6 @@ This is what visitors should **see visually**.
       <div>xrobinx / README.md</div>
       <div style="opacity:0.7;">main</div>
     </div>
-
     <!-- Editor -->
     <div style="padding:16px;color:#cdd6f4;font-size:13px;">
       <pre style="margin:0;color:#9ece6a;line-height:1.6;">
@@ -63,7 +60,6 @@ int main() {
 }
       </pre>
     </div>
-
     <!-- Status bar -->
     <div style="
       padding:8px 12px;
