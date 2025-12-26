@@ -43,28 +43,27 @@
   <li>Intro to Data Science — ✅ Completed</li>
   <li>Now: expanding C++ projects + building ML knowledge step-by-step</li>
 </ul>
-
-<h3>🧭 Philosophy</h3>
-<p><b>Fundamentals &gt; Frameworks</b> • <b>Clarity &gt; Complexity</b> • <b>Consistency &gt; Intensity</b></p>
-
 <h3>🧠 Skills</h3>
 
 <p>
-  <a href="#"><img src="https://img.shields.io/badge/C%2B%2B-CORE%20SYSTEMS%20%26%20PERFORMANCE-111111?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" /></a>
-  <a href="https://github.com/xrobinx/marketing-campaign-customer-response-predictor"><img src="https://img.shields.io/badge/Python-ML%20%2F%20DATA%20SCIENCE-111111?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
-  <a href="#web-design"><img src="https://img.shields.io/badge/WEB%20DESIGN-UI%20%26%20UX%20WORK-111111?style=for-the-badge&logo=figma&logoColor=white" alt="Web Design" /></a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/C%2B%2B-CORE%20SYSTEMS%20%26%20PERFORMANCE-111111?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/xrobinx/marketing-campaign-customer-response-predictor">
+    <img src="https://img.shields.io/badge/Python-ML%20%2F%20DATA%20SCIENCE-111111?style=for-the-badge&logo=python&logoColor=white" />
+  </a>
 </p>
 
-<details id="web-design">
-  <summary><b>🎨 Choose a Figma project</b></summary>
+<details>
+  <summary><b>🎨 UI/UX Figma projects</b></summary>
   <br/>
   <p>
     <a href="https://www.figma.com/design/43hi4MOz8FoGcH7bj2VCUB/WEB-DESIGN?node-id=0-1&p=f&t=IxaF9GrRrevlYs7j-0">
-      <img src="https://img.shields.io/badge/Figma-Web%20Design%20Layout%20Concept-111111?style=for-the-badge&logo=figma&logoColor=white" alt="Web Design Layout Concept" />
+      <img src="https://img.shields.io/badge/Figma-Web%20Design%20Layout%20Concept-111111?style=for-the-badge&logo=figma&logoColor=white" />
     </a>
     <a href="https://www.figma.com/design/ISIPGN6WJJVWMNC2a2XPXc/Untitled?node-id=0-1&p=f&t=WaEXFQgQEWfr4wmf-0">
-      <img src="https://img.shields.io/badge/Figma-UI%20Concept%20Board-111111?style=for-the-badge&logo=figma&logoColor=white" alt="UI Concept Board" />
+      <img src="https://img.shields.io/badge/Figma-UI%20Concept%20Board-111111?style=for-the-badge&logo=figma&logoColor=white" />
     </a>
   </p>
 </details>
-
