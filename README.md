@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Patrick+Hand&size=56&duration=1800&pause=600&color=FFFFFF&center=true&vCenter=true&width=900&lines=Robinjeet+Singh&repeat=true" alt="Robinjeet Singh" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Patrick+Hand&size=56&height=120&pause=5000&color=FFFFFF&center=true&vCenter=true&width=900&lines=Robinjeet+Singh&repeat=true"
+    alt="Robinjeet Singh"
+  />
 </p>
 
 
