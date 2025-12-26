@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Patrick+Hand&size=56&height=110&pause=5000&color=FFFFFF&center=true&vCenter=true&width=900&lines=Robinjeet+Singh&repeat=true"
+    src="https://readme-typing-svg.demolab.com?font=Patrick+Hand&size=56&height=70&pause=5000&color=FFFFFF&center=true&vCenter=true&width=900&lines=Robinjeet+Singh&repeat=true"
     alt="Robinjeet Singh"
   />
 </p>
