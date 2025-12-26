@@ -1,357 +1,195 @@
 <!-- =========================
-     VS CODE WINDOW (IMPROVED)
-     GitHub-safe: inline styles only
+     VS CODE WINDOW (NO-ERROR, GITHUB-SAFE)
+     Paste WITHOUT ``` fences
 ========================= -->
 
 <div align="center">
 
-  <!-- Outer frame -->
-  <div
-    style="
-      max-width: 980px;
-      width: 100%;
-      border: 1px solid rgba(255,255,255,0.10);
-      border-radius: 14px;
-      overflow: hidden;
-      background: #0f111a;
-      box-shadow: 0 10px 35px rgba(0,0,0,0.35);
-      font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono','Courier New', monospace;
-    "
-  >
+  <table width="980" cellspacing="0" cellpadding="0"
+    style="border-collapse:collapse;border:1px solid rgba(255,255,255,0.10);border-radius:14px;overflow:hidden;background:#0f111a;box-shadow:0 10px 35px rgba(0,0,0,0.35);font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono','Courier New',monospace;">
 
     <!-- Title bar -->
-    <div
-      style="
-        display:flex;
-        align-items:center;
-        justify-content:space-between;
-        padding: 10px 14px;
-        background:#0b0d13;
-        border-bottom: 1px solid rgba(255,255,255,0.08);
-        color:#cdd6f4;
-        font-size: 12px;
-      "
-    >
-      <div style="display:flex; align-items:center; gap:10px;">
-        <!-- mac dots -->
-        <span style="display:inline-flex; gap:6px;">
-          <span style="width:10px;height:10px;border-radius:50%;background:#ff5f57;display:inline-block;"></span>
-          <span style="width:10px;height:10px;border-radius:50%;background:#febc2e;display:inline-block;"></span>
-          <span style="width:10px;height:10px;border-radius:50%;background:#28c840;display:inline-block;"></span>
-        </span>
+    <tr>
+      <td style="padding:10px 14px;background:#0b0d13;border-bottom:1px solid rgba(255,255,255,0.08);color:#cdd6f4;font-size:12px;">
+        <table width="100%" cellspacing="0" cellpadding="0" style="border-collapse:collapse;">
+          <tr>
+            <td style="white-space:nowrap;">
+              <span style="display:inline-block;width:10px;height:10px;border-radius:50%;background:#ff5f57;margin-right:6px;"></span>
+              <span style="display:inline-block;width:10px;height:10px;border-radius:50%;background:#febc2e;margin-right:6px;"></span>
+              <span style="display:inline-block;width:10px;height:10px;border-radius:50%;background:#28c840;margin-right:10px;"></span>
 
-        <span style="opacity:0.9;">VS Code</span>
-        <span style="opacity:0.45;">—</span>
-        <span style="opacity:0.9;">robinjeet-singh/README.md</span>
-      </div>
-
-      <div style="opacity:0.65; font-size:11px;">
-        <span style="padding:2px 6px;border:1px solid rgba(255,255,255,0.10);border-radius:8px;background:rgba(255,255,255,0.03);">
-          ⌘P
-        </span>
-        <span style="margin-left:8px;">main</span>
-      </div>
-    </div>
+              <span style="opacity:0.9;">VS Code</span>
+              <span style="opacity:0.45;margin:0 6px;">—</span>
+              <span style="opacity:0.9;">robinjeet-singh/README.md</span>
+            </td>
+            <td align="right" style="white-space:nowrap;color:#a6adc8;font-size:11px;">
+              <span style="padding:2px 6px;border:1px solid rgba(255,255,255,0.10);border-radius:8px;background:rgba(255,255,255,0.03);">⌘P</span>
+              <span style="margin-left:10px;opacity:0.8;">main</span>
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
 
     <!-- Menu bar -->
-    <div
-      style="
-        padding: 8px 14px;
-        background: #0f131b;
-        border-bottom: 1px solid rgba(255,255,255,0.06);
-        color:#a6adc8;
-        font-size: 12px;
-        letter-spacing: 0.2px;
-        white-space: nowrap;
-        overflow: hidden;
-        text-overflow: ellipsis;
-      "
-    >
-      File&nbsp;&nbsp;Edit&nbsp;&nbsp;Selection&nbsp;&nbsp;View&nbsp;&nbsp;Go&nbsp;&nbsp;Run&nbsp;&nbsp;Terminal&nbsp;&nbsp;Help
-    </div>
+    <tr>
+      <td style="padding:8px 14px;background:#0f131b;border-bottom:1px solid rgba(255,255,255,0.06);color:#a6adc8;font-size:12px;white-space:nowrap;">
+        File&nbsp;&nbsp;Edit&nbsp;&nbsp;Selection&nbsp;&nbsp;View&nbsp;&nbsp;Go&nbsp;&nbsp;Run&nbsp;&nbsp;Terminal&nbsp;&nbsp;Help
+      </td>
+    </tr>
 
     <!-- Tabs -->
-    <div
-      style="
-        display:flex;
-        gap:6px;
-        padding: 10px 10px 0 10px;
-        background:#0f111a;
-        border-bottom: 1px solid rgba(255,255,255,0.08);
-      "
-    >
-      <div style="padding:8px 10px;border-top-left-radius:10px;border-top-right-radius:10px;background:#1a1e2a;border:1px solid rgba(255,255,255,0.08);border-bottom:none;color:#cdd6f4;font-size:12px;">
-        README.md
-        <span style="opacity:0.5;margin-left:6px;">×</span>
-      </div>
-      <div style="padding:8px 10px;border-top-left-radius:10px;border-top-right-radius:10px;background:transparent;border:1px solid rgba(255,255,255,0.08);border-bottom:none;color:#a6adc8;font-size:12px;opacity:0.8;">
-        projects.cpp
-        <span style="opacity:0.5;margin-left:6px;">×</span>
-      </div>
-      <div style="padding:8px 10px;border-top-left-radius:10px;border-top-right-radius:10px;background:transparent;border:1px solid rgba(255,255,255,0.08);border-bottom:none;color:#a6adc8;font-size:12px;opacity:0.8;">
-        ml-notes.py
-        <span style="opacity:0.5;margin-left:6px;">×</span>
-      </div>
-      <div style="flex:1;"></div>
-      <div style="padding:8px 10px;color:#7a88a6;font-size:12px;">⋯</div>
-    </div>
+    <tr>
+      <td style="padding:10px 10px 0 10px;border-bottom:1px solid rgba(255,255,255,0.08);">
+        <table cellspacing="0" cellpadding="0" style="border-collapse:collapse;">
+          <tr>
+            <td style="padding:8px 10px;background:#1a1e2a;border:1px solid rgba(255,255,255,0.08);border-bottom:none;border-top-left-radius:10px;border-top-right-radius:10px;color:#cdd6f4;font-size:12px;white-space:nowrap;">
+              README.md <span style="opacity:0.5;margin-left:6px;">×</span>
+            </td>
+            <td style="padding:8px 10px;background:transparent;border:1px solid rgba(255,255,255,0.08);border-bottom:none;border-top-left-radius:10px;border-top-right-radius:10px;color:#a6adc8;font-size:12px;white-space:nowrap;opacity:0.85;">
+              projects.cpp <span style="opacity:0.5;margin-left:6px;">×</span>
+            </td>
+            <td style="padding:8px 10px;background:transparent;border:1px solid rgba(255,255,255,0.08);border-bottom:none;border-top-left-radius:10px;border-top-right-radius:10px;color:#a6adc8;font-size:12px;white-space:nowrap;opacity:0.85;">
+              ml-notes.py <span style="opacity:0.5;margin-left:6px;">×</span>
+            </td>
+            <td style="padding:8px 10px;color:#7a88a6;font-size:12px;white-space:nowrap;">⋯</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
 
-    <!-- Work area -->
-    <table width="100%" cellspacing="0" cellpadding="0" style="border-collapse:collapse;">
-      <tr>
+    <!-- Main area -->
+    <tr>
+      <td>
+        <table width="100%" cellspacing="0" cellpadding="0" style="border-collapse:collapse;">
+          <tr>
 
-        <!-- Sidebar (Explorer) -->
-        <td
-          valign="top"
-          style="
-            width: 34%;
-            background:#0b0d13;
-            border-right: 1px solid rgba(255,255,255,0.08);
-            padding: 14px;
-            color:#cdd6f4;
-          "
-        >
-          <div style="display:flex;align-items:center;justify-content:space-between;margin-bottom:10px;">
-            <div style="font-size:12px;opacity:0.85;letter-spacing:0.5px;">
-              <span style="opacity:0.9;">📁</span> EXPLORER
-            </div>
-            <div style="opacity:0.55;font-size:14px;">⋮</div>
-          </div>
+            <!-- Explorer -->
+            <td width="34%" valign="top"
+              style="background:#0b0d13;border-right:1px solid rgba(255,255,255,0.08);padding:14px;color:#cdd6f4;">
+              <table width="100%" cellspacing="0" cellpadding="0" style="border-collapse:collapse;">
+                <tr>
+                  <td style="font-size:12px;opacity:0.85;letter-spacing:0.5px;">📁 EXPLORER</td>
+                  <td align="right" style="color:#7a88a6;font-size:14px;">⋮</td>
+                </tr>
+              </table>
 
-          <div
-            style="
-              font-size:12px;
-              color:#a6adc8;
-              padding: 6px 8px;
-              border: 1px solid rgba(255,255,255,0.08);
-              border-radius: 10px;
-              background: rgba(255,255,255,0.03);
-              margin-bottom: 10px;
-            "
-          >
-            <b style="color:#cdd6f4;">ROBINJEET-SINGH</b><span style="opacity:0.6;">/</span>
-          </div>
+              <div style="height:10px;"></div>
 
-          <!-- File list -->
-          <div style="font-size:12px;line-height:1.8;">
-            <div style="display:flex;align-items:center;gap:8px;padding:4px 6px;border-radius:8px;background:rgba(122,162,247,0.10);border:1px solid rgba(122,162,247,0.20);">
-              <span>📄</span> <b style="color:#cdd6f4;">README.md</b>
-            </div>
-            <div style="display:flex;align-items:center;gap:8px;padding:4px 6px;border-radius:8px;">
-              <span>📄</span> <span style="color:#a6adc8;">projects.cpp</span>
-            </div>
-            <div style="display:flex;align-items:center;gap:8px;padding:4px 6px;border-radius:8px;">
-              <span>📄</span> <span style="color:#a6adc8;">ml-notes.py</span>
-            </div>
-            <div style="display:flex;align-items:center;gap:8px;padding:4px 6px;border-radius:8px;">
-              <span>🧩</span> <span style="color:#a6adc8;">skills.json</span>
-            </div>
-            <div style="display:flex;align-items:center;gap:8px;padding:4px 6px;border-radius:8px;">
-              <span>✉️</span> <span style="color:#a6adc8;">contact.txt</span>
-            </div>
-          </div>
-
-          <!-- Collapsible folders -->
-          <div style="margin-top:12px;">
-            <details>
-              <summary style="cursor:pointer; font-size:12px; color:#cdd6f4; padding:6px 6px;">
-                📂 featured-projects/
-              </summary>
-              <div style="padding-left:14px; font-size:12px; color:#a6adc8; line-height:1.8;">
-                <div>📄 marketing_campaign_predictor.md</div>
-                <div>📄 cpp_uploads_soon.md</div>
-                <div>📄 notes_and_docs.md</div>
+              <div style="font-size:12px;color:#a6adc8;padding:6px 8px;border:1px solid rgba(255,255,255,0.08);border-radius:10px;background:rgba(255,255,255,0.03);">
+                <b style="color:#cdd6f4;">ROBINJEET-SINGH</b><span style="opacity:0.6;">/</span>
               </div>
-            </details>
-          </div>
 
-          <div style="margin-top:10px;">
-            <details>
-              <summary style="cursor:pointer; font-size:12px; color:#cdd6f4; padding:6px 6px;">
-                🕒 timeline/ <span style="opacity:0.6;">(click to expand)</span>
-              </summary>
-              <div style="padding-left:14px; font-size:12px; color:#a6adc8; line-height:1.8;">
-                <div>✅ Advanced C++ subjects completed</div>
-                <div>✅ Intro to Data Science completed</div>
-                <div>🎯 Current: Uploading C++ projects + building ML portfolio</div>
+              <div style="height:10px;"></div>
+
+              <div style="font-size:12px;line-height:1.9;">
+                <div style="padding:4px 6px;border-radius:8px;background:rgba(122,162,247,0.10);border:1px solid rgba(122,162,247,0.20);">
+                  📄 <b style="color:#cdd6f4;">README.md</b>
+                </div>
+                <div style="padding:4px 6px;border-radius:8px;color:#a6adc8;">📄 projects.cpp</div>
+                <div style="padding:4px 6px;border-radius:8px;color:#a6adc8;">📄 ml-notes.py</div>
+                <div style="padding:4px 6px;border-radius:8px;color:#a6adc8;">🧩 skills.json</div>
+                <div style="padding:4px 6px;border-radius:8px;color:#a6adc8;">✉️ contact.txt</div>
               </div>
-            </details>
-          </div>
 
-        </td>
+              <div style="height:10px;"></div>
 
-        <!-- Editor -->
-        <td
-          valign="top"
-          style="
-            width: 66%;
-            background:#0f111a;
-            padding: 14px;
-            color:#cdd6f4;
-          "
-        >
-          <!-- Editor header -->
-          <div style="display:flex;align-items:center;justify-content:space-between;margin-bottom:10px;">
-            <div style="font-size:12px;opacity:0.9;">
-              📝 <b>README.md</b> <span style="opacity:0.6;">(Editor)</span>
-            </div>
+              <details>
+                <summary style="cursor:pointer;font-size:12px;color:#cdd6f4;padding:6px 0;">📂 featured-projects/</summary>
+                <div style="padding-left:14px;font-size:12px;color:#a6adc8;line-height:1.8;">
+                  <div>📄 marketing_campaign_predictor.md</div>
+                  <div>📄 cpp_uploads_soon.md</div>
+                  <div>📄 notes_and_docs.md</div>
+                </div>
+              </details>
 
-            <!-- small icon button -->
-            <div
-              style="
-                width:30px;height:30px;border-radius:10px;
-                border:1px solid rgba(255,255,255,0.10);
-                background:rgba(255,255,255,0.03);
-                display:flex;align-items:center;justify-content:center;
-                color:#a6adc8;font-size:14px;
-              "
-              title="Copy"
-            >
-              ⧉
-            </div>
-          </div>
+              <details style="margin-top:8px;">
+                <summary style="cursor:pointer;font-size:12px;color:#cdd6f4;padding:6px 0;">🕒 timeline/ <span style="opacity:0.6;">(click)</span></summary>
+                <div style="padding-left:14px;font-size:12px;color:#a6adc8;line-height:1.8;">
+                  <div>✅ Advanced C++ completed</div>
+                  <div>✅ Intro to Data Science completed</div>
+                  <div>🎯 Current: Uploading C++ projects + building ML portfolio</div>
+                </div>
+              </details>
 
-          <!-- Code card -->
-          <div
-            style="
-              border: 1px solid rgba(255,255,255,0.10);
-              background: #0b0d13;
-              border-radius: 14px;
-              padding: 14px 14px 14px 0;
-              overflow: hidden;
-            "
-          >
-            <table width="100%" cellspacing="0" cellpadding="0" style="border-collapse:collapse;">
-              <tr>
-                <!-- Line numbers -->
-                <td
-                  valign="top"
-                  style="
-                    width: 44px;
-                    padding: 14px 10px;
-                    background: rgba(255,255,255,0.02);
-                    border-right: 1px solid rgba(255,255,255,0.08);
-                    color:#7a88a6;
-                    font-size: 12px;
-                    line-height: 1.65;
-                    text-align: right;
-                    user-select:none;
-                  "
-                >
-                  1<br/>2<br/>3<br/>4<br/>5<br/>6<br/>7<br/>8<br/>9<br/>10
-                </td>
+            </td>
 
-                <!-- Code -->
-                <td style="padding: 14px; font-size: 12px; line-height: 1.65;">
-                  <div style="color:#7a88a6;">// robinjeet-singh :: profile</div>
-                  <div style="color:#7a88a6;">// Primary: C++ (systems + performance mindset)</div>
-                  <div style="color:#7a88a6;">// Secondary: AI/ML (learning to mastery)</div>
-                  <br/>
+            <!-- Editor -->
+            <td width="66%" valign="top" style="background:#0f111a;padding:14px;color:#cdd6f4;">
 
-                  <div>
-                    <span style="color:#7aa2f7;">#include</span> <span style="color:#cdd6f4;">&lt;iostream&gt;</span>
-                  </div>
+              <table width="100%" cellspacing="0" cellpadding="0" style="border-collapse:collapse;">
+                <tr>
+                  <td style="font-size:12px;opacity:0.9;">📝 <b>README.md</b> <span style="opacity:0.6;">(Editor)</span></td>
+                  <td align="right">
+                    <span style="display:inline-block;width:30px;height:30px;line-height:30px;text-align:center;border-radius:10px;border:1px solid rgba(255,255,255,0.10);background:rgba(255,255,255,0.03);color:#a6adc8;font-size:14px;">⧉</span>
+                  </td>
+                </tr>
+              </table>
 
-                  <div>
-                    <span style="color:#f7768e;">int</span> <span style="color:#cdd6f4;">main</span><span style="color:#cdd6f4;">()</span><span style="color:#cdd6f4;">{</span>
-                  </div>
+              <div style="height:10px;"></div>
 
-                  <div style="padding-left:18px;">
-                    <span style="color:#cdd6f4;">std</span><span style="color:#a6adc8;">::</span><span style="color:#cdd6f4;">cout</span>
-                    <span style="color:#a6adc8;">&lt;&lt;</span>
-                    <span style="color:#9ece6a;">"C++ first. AI next. Consistent progress."</span>
-                    <span style="color:#a6adc8;">&lt;&lt;</span>
-                    <span style="color:#cdd6f4;">std</span><span style="color:#a6adc8;">::</span><span style="color:#cdd6f4;">endl</span><span style="color:#cdd6f4;">;</span>
-                  </div>
+              <table width="100%" cellspacing="0" cellpadding="0"
+                style="border-collapse:collapse;border:1px solid rgba(255,255,255,0.10);background:#0b0d13;border-radius:14px;overflow:hidden;">
+                <tr>
 
-                  <div style="padding-left:18px;">
-                    <span style="color:#f7768e;">return</span> <span style="color:#cdd6f4;">0</span><span style="color:#cdd6f4;">;</span>
-                  </div>
+                  <!-- Line numbers -->
+                  <td width="44" valign="top"
+                    style="padding:14px 10px;background:rgba(255,255,255,0.02);border-right:1px solid rgba(255,255,255,0.08);color:#7a88a6;font-size:12px;line-height:1.65;text-align:right;white-space:nowrap;">
+                    1<br/>2<br/>3<br/>4<br/>5<br/>6<br/>7<br/>8<br/>9<br/>10
+                  </td>
 
-                  <div><span style="color:#cdd6f4;">}</span></div>
+                  <!-- Code -->
+                  <td valign="top" style="padding:14px;font-size:12px;line-height:1.65;white-space:normal;">
+                    <div style="color:#7a88a6;">// robinjeet-singh :: profile</div>
+                    <div style="color:#7a88a6;">// Primary: C++ (systems + performance)</div>
+                    <div style="color:#7a88a6;">// Secondary: AI/ML (learning to mastery)</div>
 
-                  <br/>
-                  <div style="color:#7a88a6;">
-                    // Tip: Explore sidebar folders + open tabs like a real editor.
-                  </div>
-                </td>
-              </tr>
-            </table>
-          </div>
+                    <div style="height:10px;"></div>
 
-          <!-- Quick actions row -->
-          <div style="margin-top:12px; display:flex; flex-wrap:wrap; gap:8px;">
-            <a
-              href="#"
-              style="
-                text-decoration:none;
-                color:#cdd6f4;
-                font-size:12px;
-                padding:8px 10px;
-                border-radius:10px;
-                border:1px solid rgba(255,255,255,0.10);
-                background:rgba(255,255,255,0.03);
-              "
-            >▶ Run</a>
+                    <div><span style="color:#7aa2f7;">#include</span> <span style="color:#cdd6f4;">&lt;iostream&gt;</span></div>
+                    <div><span style="color:#f7768e;">int</span> <span style="color:#cdd6f4;">main</span>(){</div>
 
-            <a
-              href="#"
-              style="
-                text-decoration:none;
-                color:#cdd6f4;
-                font-size:12px;
-                padding:8px 10px;
-                border-radius:10px;
-                border:1px solid rgba(255,255,255,0.10);
-                background:rgba(255,255,255,0.03);
-              "
-            >📦 Projects</a>
+                    <div style="padding-left:18px;">
+                      <span style="color:#cdd6f4;">std</span><span style="color:#a6adc8;">::</span><span style="color:#cdd6f4;">cout</span>
+                      <span style="color:#a6adc8;"> &lt;&lt; </span>
+                      <span style="color:#9ece6a;">"C++ first. AI next. Consistent progress."</span>
+                      <span style="color:#a6adc8;"> &lt;&lt; </span>
+                      <span style="color:#cdd6f4;">std</span><span style="color:#a6adc8;">::</span><span style="color:#cdd6f4;">endl</span><span style="color:#cdd6f4;">;</span>
+                    </div>
 
-            <a
-              href="#"
-              style="
-                text-decoration:none;
-                color:#cdd6f4;
-                font-size:12px;
-                padding:8px 10px;
-                border-radius:10px;
-                border:1px solid rgba(255,255,255,0.10);
-                background:rgba(255,255,255,0.03);
-              "
-            >🧠 ML Notes</a>
+                    <div style="padding-left:18px;"><span style="color:#f7768e;">return</span> 0;</div>
+                    <div>}</div>
 
-            <span
-              style="
-                margin-left:auto;
-                color:#7a88a6;
-                font-size:12px;
-                padding:8px 10px;
-              "
-            >
-              Ln 10, Col 1 • UTF-8 • C++
-            </span>
-          </div>
+                    <div style="height:10px;"></div>
+                    <div style="color:#7a88a6;">// Tip: open folders in the Explorer to explore more.</div>
+                  </td>
 
-        </td>
-      </tr>
-    </table>
+                </tr>
+              </table>
+
+              <div style="height:12px;"></div>
+
+              <div style="color:#7a88a6;font-size:12px;">Ln 10, Col 1 • UTF-8 • C++</div>
+
+            </td>
+
+          </tr>
+        </table>
+      </td>
+    </tr>
 
     <!-- Status bar -->
-    <div
-      style="
-        display:flex;
-        justify-content:space-between;
-        align-items:center;
-        padding: 8px 12px;
-        background:#0b0d13;
-        border-top: 1px solid rgba(255,255,255,0.08);
-        color:#a6adc8;
-        font-size: 11px;
-      "
-    >
-      <div> main • ✔ build passing</div>
-      <div>⚡ Focus: C++ → AI/ML • 🌙 Dark Mode</div>
-    </div>
+    <tr>
+      <td style="padding:8px 12px;background:#0b0d13;border-top:1px solid rgba(255,255,255,0.08);color:#a6adc8;font-size:11px;">
+        <table width="100%" cellspacing="0" cellpadding="0" style="border-collapse:collapse;">
+          <tr>
+            <td style="white-space:nowrap;"> main • ✔ build passing</td>
+            <td align="right" style="white-space:nowrap;">⚡ Focus: C++ → AI/ML • 🌙 Dark Mode</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
 
-  </div>
+  </table>
+
 </div>
