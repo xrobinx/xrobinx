@@ -1,109 +1,357 @@
 <!-- =========================
-     VS Code Styled GitHub Profile README
-     Name: Robinjeet Singh
-     Focus: C++ (Primary) + AI/ML (Secondary)
+     VS CODE WINDOW (IMPROVED)
+     GitHub-safe: inline styles only
 ========================= -->
 
 <div align="center">
 
-# Robinjeet Singh 👋
+  <!-- Outer frame -->
+  <div
+    style="
+      max-width: 980px;
+      width: 100%;
+      border: 1px solid rgba(255,255,255,0.10);
+      border-radius: 14px;
+      overflow: hidden;
+      background: #0f111a;
+      box-shadow: 0 10px 35px rgba(0,0,0,0.35);
+      font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono','Courier New', monospace;
+    "
+  >
 
-<img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&center=true&vCenter=true&width=820&lines=Strong+in+C%2B%2B+%7C+Building+fast%2C+clean+systems;Learning+AI+%26+Machine+Learning+to+mastery;Computer+Science+Student+%7C+Projects+%7C+Growth+Mindset"
-  alt="Typing SVG"
-/>
+    <!-- Title bar -->
+    <div
+      style="
+        display:flex;
+        align-items:center;
+        justify-content:space-between;
+        padding: 10px 14px;
+        background:#0b0d13;
+        border-bottom: 1px solid rgba(255,255,255,0.08);
+        color:#cdd6f4;
+        font-size: 12px;
+      "
+    >
+      <div style="display:flex; align-items:center; gap:10px;">
+        <!-- mac dots -->
+        <span style="display:inline-flex; gap:6px;">
+          <span style="width:10px;height:10px;border-radius:50%;background:#ff5f57;display:inline-block;"></span>
+          <span style="width:10px;height:10px;border-radius:50%;background:#febc2e;display:inline-block;"></span>
+          <span style="width:10px;height:10px;border-radius:50%;background:#28c840;display:inline-block;"></span>
+        </span>
 
-<br/>
+        <span style="opacity:0.9;">VS Code</span>
+        <span style="opacity:0.45;">—</span>
+        <span style="opacity:0.9;">robinjeet-singh/README.md</span>
+      </div>
 
-<img src="https://img.shields.io/badge/C%2B%2B-Primary-blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Python-Strong-yellow?style=for-the-badge" />
-<img src="https://img.shields.io/badge/AI%20%2F%20ML-Learning%20to%20Mastery-purple?style=for-the-badge" />
+      <div style="opacity:0.65; font-size:11px;">
+        <span style="padding:2px 6px;border:1px solid rgba(255,255,255,0.10);border-radius:8px;background:rgba(255,255,255,0.03);">
+          ⌘P
+        </span>
+        <span style="margin-left:8px;">main</span>
+      </div>
+    </div>
 
+    <!-- Menu bar -->
+    <div
+      style="
+        padding: 8px 14px;
+        background: #0f131b;
+        border-bottom: 1px solid rgba(255,255,255,0.06);
+        color:#a6adc8;
+        font-size: 12px;
+        letter-spacing: 0.2px;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+      "
+    >
+      File&nbsp;&nbsp;Edit&nbsp;&nbsp;Selection&nbsp;&nbsp;View&nbsp;&nbsp;Go&nbsp;&nbsp;Run&nbsp;&nbsp;Terminal&nbsp;&nbsp;Help
+    </div>
+
+    <!-- Tabs -->
+    <div
+      style="
+        display:flex;
+        gap:6px;
+        padding: 10px 10px 0 10px;
+        background:#0f111a;
+        border-bottom: 1px solid rgba(255,255,255,0.08);
+      "
+    >
+      <div style="padding:8px 10px;border-top-left-radius:10px;border-top-right-radius:10px;background:#1a1e2a;border:1px solid rgba(255,255,255,0.08);border-bottom:none;color:#cdd6f4;font-size:12px;">
+        README.md
+        <span style="opacity:0.5;margin-left:6px;">×</span>
+      </div>
+      <div style="padding:8px 10px;border-top-left-radius:10px;border-top-right-radius:10px;background:transparent;border:1px solid rgba(255,255,255,0.08);border-bottom:none;color:#a6adc8;font-size:12px;opacity:0.8;">
+        projects.cpp
+        <span style="opacity:0.5;margin-left:6px;">×</span>
+      </div>
+      <div style="padding:8px 10px;border-top-left-radius:10px;border-top-right-radius:10px;background:transparent;border:1px solid rgba(255,255,255,0.08);border-bottom:none;color:#a6adc8;font-size:12px;opacity:0.8;">
+        ml-notes.py
+        <span style="opacity:0.5;margin-left:6px;">×</span>
+      </div>
+      <div style="flex:1;"></div>
+      <div style="padding:8px 10px;color:#7a88a6;font-size:12px;">⋯</div>
+    </div>
+
+    <!-- Work area -->
+    <table width="100%" cellspacing="0" cellpadding="0" style="border-collapse:collapse;">
+      <tr>
+
+        <!-- Sidebar (Explorer) -->
+        <td
+          valign="top"
+          style="
+            width: 34%;
+            background:#0b0d13;
+            border-right: 1px solid rgba(255,255,255,0.08);
+            padding: 14px;
+            color:#cdd6f4;
+          "
+        >
+          <div style="display:flex;align-items:center;justify-content:space-between;margin-bottom:10px;">
+            <div style="font-size:12px;opacity:0.85;letter-spacing:0.5px;">
+              <span style="opacity:0.9;">📁</span> EXPLORER
+            </div>
+            <div style="opacity:0.55;font-size:14px;">⋮</div>
+          </div>
+
+          <div
+            style="
+              font-size:12px;
+              color:#a6adc8;
+              padding: 6px 8px;
+              border: 1px solid rgba(255,255,255,0.08);
+              border-radius: 10px;
+              background: rgba(255,255,255,0.03);
+              margin-bottom: 10px;
+            "
+          >
+            <b style="color:#cdd6f4;">ROBINJEET-SINGH</b><span style="opacity:0.6;">/</span>
+          </div>
+
+          <!-- File list -->
+          <div style="font-size:12px;line-height:1.8;">
+            <div style="display:flex;align-items:center;gap:8px;padding:4px 6px;border-radius:8px;background:rgba(122,162,247,0.10);border:1px solid rgba(122,162,247,0.20);">
+              <span>📄</span> <b style="color:#cdd6f4;">README.md</b>
+            </div>
+            <div style="display:flex;align-items:center;gap:8px;padding:4px 6px;border-radius:8px;">
+              <span>📄</span> <span style="color:#a6adc8;">projects.cpp</span>
+            </div>
+            <div style="display:flex;align-items:center;gap:8px;padding:4px 6px;border-radius:8px;">
+              <span>📄</span> <span style="color:#a6adc8;">ml-notes.py</span>
+            </div>
+            <div style="display:flex;align-items:center;gap:8px;padding:4px 6px;border-radius:8px;">
+              <span>🧩</span> <span style="color:#a6adc8;">skills.json</span>
+            </div>
+            <div style="display:flex;align-items:center;gap:8px;padding:4px 6px;border-radius:8px;">
+              <span>✉️</span> <span style="color:#a6adc8;">contact.txt</span>
+            </div>
+          </div>
+
+          <!-- Collapsible folders -->
+          <div style="margin-top:12px;">
+            <details>
+              <summary style="cursor:pointer; font-size:12px; color:#cdd6f4; padding:6px 6px;">
+                📂 featured-projects/
+              </summary>
+              <div style="padding-left:14px; font-size:12px; color:#a6adc8; line-height:1.8;">
+                <div>📄 marketing_campaign_predictor.md</div>
+                <div>📄 cpp_uploads_soon.md</div>
+                <div>📄 notes_and_docs.md</div>
+              </div>
+            </details>
+          </div>
+
+          <div style="margin-top:10px;">
+            <details>
+              <summary style="cursor:pointer; font-size:12px; color:#cdd6f4; padding:6px 6px;">
+                🕒 timeline/ <span style="opacity:0.6;">(click to expand)</span>
+              </summary>
+              <div style="padding-left:14px; font-size:12px; color:#a6adc8; line-height:1.8;">
+                <div>✅ Advanced C++ subjects completed</div>
+                <div>✅ Intro to Data Science completed</div>
+                <div>🎯 Current: Uploading C++ projects + building ML portfolio</div>
+              </div>
+            </details>
+          </div>
+
+        </td>
+
+        <!-- Editor -->
+        <td
+          valign="top"
+          style="
+            width: 66%;
+            background:#0f111a;
+            padding: 14px;
+            color:#cdd6f4;
+          "
+        >
+          <!-- Editor header -->
+          <div style="display:flex;align-items:center;justify-content:space-between;margin-bottom:10px;">
+            <div style="font-size:12px;opacity:0.9;">
+              📝 <b>README.md</b> <span style="opacity:0.6;">(Editor)</span>
+            </div>
+
+            <!-- small icon button -->
+            <div
+              style="
+                width:30px;height:30px;border-radius:10px;
+                border:1px solid rgba(255,255,255,0.10);
+                background:rgba(255,255,255,0.03);
+                display:flex;align-items:center;justify-content:center;
+                color:#a6adc8;font-size:14px;
+              "
+              title="Copy"
+            >
+              ⧉
+            </div>
+          </div>
+
+          <!-- Code card -->
+          <div
+            style="
+              border: 1px solid rgba(255,255,255,0.10);
+              background: #0b0d13;
+              border-radius: 14px;
+              padding: 14px 14px 14px 0;
+              overflow: hidden;
+            "
+          >
+            <table width="100%" cellspacing="0" cellpadding="0" style="border-collapse:collapse;">
+              <tr>
+                <!-- Line numbers -->
+                <td
+                  valign="top"
+                  style="
+                    width: 44px;
+                    padding: 14px 10px;
+                    background: rgba(255,255,255,0.02);
+                    border-right: 1px solid rgba(255,255,255,0.08);
+                    color:#7a88a6;
+                    font-size: 12px;
+                    line-height: 1.65;
+                    text-align: right;
+                    user-select:none;
+                  "
+                >
+                  1<br/>2<br/>3<br/>4<br/>5<br/>6<br/>7<br/>8<br/>9<br/>10
+                </td>
+
+                <!-- Code -->
+                <td style="padding: 14px; font-size: 12px; line-height: 1.65;">
+                  <div style="color:#7a88a6;">// robinjeet-singh :: profile</div>
+                  <div style="color:#7a88a6;">// Primary: C++ (systems + performance mindset)</div>
+                  <div style="color:#7a88a6;">// Secondary: AI/ML (learning to mastery)</div>
+                  <br/>
+
+                  <div>
+                    <span style="color:#7aa2f7;">#include</span> <span style="color:#cdd6f4;">&lt;iostream&gt;</span>
+                  </div>
+
+                  <div>
+                    <span style="color:#f7768e;">int</span> <span style="color:#cdd6f4;">main</span><span style="color:#cdd6f4;">()</span><span style="color:#cdd6f4;">{</span>
+                  </div>
+
+                  <div style="padding-left:18px;">
+                    <span style="color:#cdd6f4;">std</span><span style="color:#a6adc8;">::</span><span style="color:#cdd6f4;">cout</span>
+                    <span style="color:#a6adc8;">&lt;&lt;</span>
+                    <span style="color:#9ece6a;">"C++ first. AI next. Consistent progress."</span>
+                    <span style="color:#a6adc8;">&lt;&lt;</span>
+                    <span style="color:#cdd6f4;">std</span><span style="color:#a6adc8;">::</span><span style="color:#cdd6f4;">endl</span><span style="color:#cdd6f4;">;</span>
+                  </div>
+
+                  <div style="padding-left:18px;">
+                    <span style="color:#f7768e;">return</span> <span style="color:#cdd6f4;">0</span><span style="color:#cdd6f4;">;</span>
+                  </div>
+
+                  <div><span style="color:#cdd6f4;">}</span></div>
+
+                  <br/>
+                  <div style="color:#7a88a6;">
+                    // Tip: Explore sidebar folders + open tabs like a real editor.
+                  </div>
+                </td>
+              </tr>
+            </table>
+          </div>
+
+          <!-- Quick actions row -->
+          <div style="margin-top:12px; display:flex; flex-wrap:wrap; gap:8px;">
+            <a
+              href="#"
+              style="
+                text-decoration:none;
+                color:#cdd6f4;
+                font-size:12px;
+                padding:8px 10px;
+                border-radius:10px;
+                border:1px solid rgba(255,255,255,0.10);
+                background:rgba(255,255,255,0.03);
+              "
+            >▶ Run</a>
+
+            <a
+              href="#"
+              style="
+                text-decoration:none;
+                color:#cdd6f4;
+                font-size:12px;
+                padding:8px 10px;
+                border-radius:10px;
+                border:1px solid rgba(255,255,255,0.10);
+                background:rgba(255,255,255,0.03);
+              "
+            >📦 Projects</a>
+
+            <a
+              href="#"
+              style="
+                text-decoration:none;
+                color:#cdd6f4;
+                font-size:12px;
+                padding:8px 10px;
+                border-radius:10px;
+                border:1px solid rgba(255,255,255,0.10);
+                background:rgba(255,255,255,0.03);
+              "
+            >🧠 ML Notes</a>
+
+            <span
+              style="
+                margin-left:auto;
+                color:#7a88a6;
+                font-size:12px;
+                padding:8px 10px;
+              "
+            >
+              Ln 10, Col 1 • UTF-8 • C++
+            </span>
+          </div>
+
+        </td>
+      </tr>
+    </table>
+
+    <!-- Status bar -->
+    <div
+      style="
+        display:flex;
+        justify-content:space-between;
+        align-items:center;
+        padding: 8px 12px;
+        background:#0b0d13;
+        border-top: 1px solid rgba(255,255,255,0.08);
+        color:#a6adc8;
+        font-size: 11px;
+      "
+    >
+      <div> main • ✔ build passing</div>
+      <div>⚡ Focus: C++ → AI/ML • 🌙 Dark Mode</div>
+    </div>
+
+  </div>
 </div>
-
----
-
-<!-- VS CODE WINDOW START -->
-<div align="center">
-
-<table width="100%" style="border-collapse:collapse;">
-<tr>
-<td>
-
-<!-- Top bar -->
-<div align="left">
-
-**`VS Code — robinjeet-singh/README.md`**  
-`File  Edit  Selection  View  Go  Run  Terminal  Help`
-
-</div>
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-<!-- Tabs bar -->
-<div align="left">
-
-`README.md`  |  `projects.cpp`  |  `ml-notes.py`
-
-</div>
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-<!-- Main layout -->
-<table width="100%">
-<tr>
-
-<!-- Explorer -->
-<td width="32%" valign="top">
-
-### 📁 Explorer
-**`ROBINJEET-SINGH/`**
-- 📄 `README.md`
-- 📄 `projects.cpp`
-- 📄 `ml-notes.py`
-- 📄 `skills.json`
-- 📄 `contact.txt`
-
-<details>
-<summary><b>📂 featured-projects/</b></summary>
-
-- 📄 `marketing_campaign_predictor.md`
-- 📄 `cpp_uploads_soon.md`
-- 📄 `notes_and_docs.md`
-
-</details>
-
-<details>
-<summary><b>📂 timeline/</b> (click to expand)</summary>
-
-- ✅ Advanced C++ subjects completed  
-- ✅ Intro to Data Science completed  
-- 🎯 Current: Uploading C++ projects + building ML portfolio
-
-</details>
-
-</td>
-
-<!-- Editor -->
-<td width="68%" valign="top">
-
-### 🧾 README.md (Editor)
-
-```cpp
-// robinjeet-singh :: profile
-// Primary: C++ (systems + performance mindset)
-// Secondary: AI/ML (learning to mastery)
-
-#include <iostream>
-int main(){
-  std::cout << "C++ first. AI next. Consistent progress." << std::endl;
-  return 0;
-}
