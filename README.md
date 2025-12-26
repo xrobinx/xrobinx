@@ -1,10 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Patrick+Hand&size=44&pause=900&color=FFFFFF&center=true&vCenter=true&width=900&lines=Robinjeet+Singh;C%2B%2B+%7C+Systems+Mindset;AI+%26+ML+%7C+Learning+Deeply;Fundamentals+%E2%86%92+Performance+%E2%86%92+Growth" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Patrick+Hand&size=56&duration=1800&pause=600&color=FFFFFF&center=true&vCenter=true&width=900&lines=Robinjeet+Singh&repeat=true" alt="Robinjeet Singh" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:111111,100:000000&section=header&text=&fontSize=0" />
-</p>
 
 <p align="center">
   <b>Computer Science Student</b> • <b>C++ (Primary)</b> • <b>Python (Secondary)</b>
