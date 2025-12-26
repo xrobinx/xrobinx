@@ -43,7 +43,7 @@
   <li>Intro to Data Science — ✅ Completed</li>
   <li>Now: expanding C++ projects + building ML knowledge step-by-step</li>
 </ul>
-<h3>🧠 Skills</h3>
+<h3>Project links</h3>
 
 <p>
   <a href="#">
