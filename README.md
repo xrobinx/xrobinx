@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-hero.svg" alt="Robinjeet Singh portfolio banner with an animated retro workstation and code running on screen" width="100%" />
+  <img src="./assets/profile-hero.gif" alt="Robinjeet Singh portfolio banner with an animated retro workstation and code running on screen" width="100%" />
 </p>
 
 <p align="center">
@@ -40,7 +40,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/studio-panel.svg" alt="Animated panel showing current focus across C++, machine learning, and design" width="100%" />
+  <img src="./assets/studio-panel.gif" alt="Animated panel showing current focus across C++, machine learning, and design" width="100%" />
 </p>
 
 ## Current Direction
